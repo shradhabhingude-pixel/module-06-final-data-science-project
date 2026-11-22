@@ -1,0 +1,4 @@
+Dataset project: https://github.com/allisonhorst/palmerpenguins
+Direct CSV: https://raw.githubusercontent.com/allisonhorst/palmerpenguins/main/inst/extdata/penguins.csv
+License: CC0
+Citation: Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. https://doi.org/10.5281/zenodo.3960218
